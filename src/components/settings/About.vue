@@ -5,7 +5,7 @@
             <div class="fs-4 fw-bold">Uptime Kuma</div>
             <div>{{ $t("Version") }}: {{ $root.info.version }}</div>
 
-            <div class="my-3 update-link"><a href="https://github.com/louislam/uptime-kuma/releases" target="_blank" rel="noopener">{{ $t("Check Update On GitHub") }}</a></div>
+            <div class="my-3 update-link"><a href="https://kaf44.mephi.ru/" target="_blank" rel="noopener">{{ $t("MEPhi Kaf44 Website") }}</a></div>
 
             <div class="mt-1">
                 <div class="form-check">
